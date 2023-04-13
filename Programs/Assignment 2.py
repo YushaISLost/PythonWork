@@ -1,5 +1,5 @@
 # This program calculates weekly, monthly, and yearly pay based on weekly hours worked and pay rate.
-# References: go here ...
+# References:Python Doc and Course Book 
 print(" This program calculates weekly, monthly, and yearly pay based on weekly hours worked and pay rate")
 print("Please enter number of hours worked")
 numOFHours = float(input())
