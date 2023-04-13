@@ -1,0 +1,31 @@
+#This program will calculate the total amount of money an employee should receive based on their hours worked and hourly rate, including overtime pay if applicable.
+
+
+Input:
+    Display prompt
+    How many hours did you work this week?
+    
+    Display prompt
+    What is your hourly rate of pay?    
+    
+    Display prompt
+    Did you work more than 40 hours this week? (Y/N)
+
+  Process
+   If worked overtime is Yes
+    calculate overtime pay
+    hourly rate * 1.5 
+    Hours worked * regular rate
+    overtime hours * overtime rate
+    regular pay + overtime pay 
+ 
+ Output
+  Display gross pay
+  Display prompt Your gross pay for this week is
+  
+  If worked overtime is No
+    calculate regular pay
+        
+  Output 
+    Display calculated regular pay 
+    Display prompt here Your regular gross pay for this week is 
