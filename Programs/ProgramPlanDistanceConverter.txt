@@ -1,0 +1,22 @@
+#This program will convert the distance in miles to yards, feet, and inches or kilometers,meters, and centimeters. Depending on the user's preference.
+
+Input: 
+ Display prompt
+ Hello! please enter the distance in miles.
+ Display prompt 
+ Would you like for me to convert the distance in US Standard lengths?
+ 
+ Process
+  If user chooses to convert to US standard lengths 
+  Convert distance in miles to yards,feet, and inches
+  
+  Output: 
+     Display the distance in yards,feet,inches
+     Display prompt This is the distance from miles to yards,feet, and inches.
+     
+  If user chooses not to convert to US standard lengths: 
+   Convert distance in miles to kilometers, meters, and centimeters.
+  
+  Output: 
+     Display the distance in kilometers, meters, and centimeters.
+     Display prompt This is the distance from miles to kilometers, meters, and centimeters.
