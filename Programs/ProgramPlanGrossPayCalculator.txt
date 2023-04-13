@@ -1,0 +1,16 @@
+This program calculates weekly, monthly, and yearly pay based on weekly hours worked and pay rate.
+
+Input:
+    Display prompt
+    Get hours worked 
+    
+    Display prompt
+    Get rate of pay
+
+Process:
+    Calculate weekly pay
+    Calculate monthly pay
+    Calculate yearly pay
+
+Output:
+    Display weekly, monthly, and yearly pay
